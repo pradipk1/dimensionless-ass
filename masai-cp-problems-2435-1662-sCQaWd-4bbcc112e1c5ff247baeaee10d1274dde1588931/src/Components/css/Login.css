@@ -1,0 +1,7 @@
+.invalidAlert{
+    display: none;
+}
+.invalidAlertActive{
+    display: block;
+    color: red;
+}
